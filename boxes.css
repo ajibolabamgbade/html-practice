@@ -1,0 +1,35 @@
+.box{
+	width: 50vw;
+	height: 40px;
+	background-color: grey;
+	border:4px dotted red;
+	border-radius: 40px;
+	padding: 20px 30px 20px 30px;
+	margin: 30px;
+}
+
+.bg-image{
+	background-image: url("image/pix.png");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#display p {
+	display: none;
+}
+
+#display a {
+	display: block;
+}
+
+.float-box {
+	height: 300px;
+	background-color: yellow;
+}
+
+.item {
+	height: 100px; 
+	width: 100px;
+	background-color: grey;
+	float: right;
+}

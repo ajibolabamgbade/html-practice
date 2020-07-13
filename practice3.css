@@ -1,0 +1,12 @@
+table{
+	background-color: green;
+}
+p {
+	color: blue;
+}
+.heading{
+	font-size: 50px
+}
+.image{
+	border-image-source: 30px; image-rendering: red;
+}
